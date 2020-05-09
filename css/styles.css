@@ -13,10 +13,9 @@ h1 {
 
 .container {
     margin: 1rem;
-    padding: 33%;
+    padding: 3rem;
     border: 2px dashed darkorange;
     min-height: 50vh;
-    max-height: 100vh;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
