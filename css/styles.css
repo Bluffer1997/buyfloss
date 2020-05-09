@@ -12,7 +12,6 @@ h1 {
 }
 
 .container {
-    background: aqua;
     border: 2px dashed darkorange;
     min-height: 50vh;
     display: flex;
